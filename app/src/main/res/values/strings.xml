@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ciudades</string>
+    <string name="menu_addCity">Agregar Ciudad</string>
+    <string name="menu_clearCities">Limpiar datos</string>
+    <string name="button_addCity">Agregar Ciudad</string>
+    <string name="openweathermap_API">http://api.openweathermap.org/data/2.5/weather?q=CITY_NAME&amp;APPID=8f537787fef01d27b036c4bbde9fb3e7</string>
+    <string name="alert_addCity">Debe ingresar una Ciudad</string>
+    <string name="alert_addCityOK">Ciudad guardada con éxito</string>
+    <string name="alert_deleteCities">Las Ciudades fueron eliminadas con éxito</string>
+    <string name="alert_wait">Por favor espere...</string>
+    <string name="alert_download_weather">Descargando el clima...</string>
+    <string name="alert_download_weatherError">Se produjo un error al leer el Clima</string>
+    <string name="alert_download_weatherMessage">La Temperatura es </string>
+    <string name="alert_city_exists">La Ciudad ya existe</string>
+</resources>
